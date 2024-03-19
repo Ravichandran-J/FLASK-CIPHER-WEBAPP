@@ -208,7 +208,7 @@ pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 phonenumbers==8.12.43
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==8.4.0
-pipreqs==0.4.11
+pipreqs==0.4.12
 pkginfo==1.7.0
 platformdirs==2.5.0
 pluggy @ file:///C:/ci/pluggy_1615976358795/work
