@@ -86,7 +86,7 @@ Flask-SQLAlchemy==2.5.1
 Flask-WTF==1.0.0
 flatbuffers==2.0
 folium @ file:///home/conda/feedstock_root/build_artifacts/folium_1638560701663/work
-fonttools==4.29.0
+fonttools==4.43.0
 fsspec @ file:///tmp/build/80754af9/fsspec_1617959894824/work
 future==0.18.2
 gast==0.5.3
