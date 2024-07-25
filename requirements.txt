@@ -332,7 +332,7 @@ three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
 tifffile @ file:///tmp/build/80754af9/tifffile_1619636090847/work
 toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 toolz @ file:///home/linux1/recipes/ci/toolz_1610987900194/work
-torch==1.10.1
+torch==2.2.0
 torchfile==0.1.0
 tornado @ file:///C:/ci/tornado_1606942392901/work
 tqdm==4.62.3
