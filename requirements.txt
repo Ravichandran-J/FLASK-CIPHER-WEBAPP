@@ -233,7 +233,7 @@ pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1616182067796/work
 pyerfa @ file:///C:/ci/pyerfa_1619391071834/work
 pyflakes @ file:///home/ktietz/src/ci_ipy2/pyflakes_1612551159640/work
 Pygments @ file:///tmp/build/80754af9/pygments_1615143339740/work
-pyinstaller==4.7
+pyinstaller==5.13.1
 pyinstaller-hooks-contrib==2021.3
 pylint @ file:///C:/ci/pylint_1617136058775/work
 pyls-black @ file:///tmp/build/80754af9/pyls-black_1607553132291/work
