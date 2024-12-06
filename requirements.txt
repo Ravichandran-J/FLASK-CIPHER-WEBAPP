@@ -284,7 +284,7 @@ ruamel-yaml-conda @ file:///C:/ci/ruamel_yaml_1616016967756/work
 scapy==2.4.5
 scikit-image==0.18.1
 scikit-learn==1.0.2
-scipy==1.7.3
+scipy==1.11.1
 seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
 shellescape==3.8.1
